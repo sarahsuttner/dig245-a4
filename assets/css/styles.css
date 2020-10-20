@@ -1,2 +1,50 @@
 
 /* css */
+body {
+  font-family: 'Ubuntu';
+}
+.headerbackground {
+  background-color: #f2f2f7;
+  padding-top: 100px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 3.1rem;
+  color: #252963;
+  font-weight: 700;
+}
+
+.subheaderbackground {
+  background-color: #ef6d57;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.subheading {
+  text-align: center;
+  font-size: 1.8rem;
+  color: #fff;
+  font-weight: 300;
+}
+
+.bodybackground {
+  background-color: #b8b8d1;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.overview {
+  color: #fff;
+  font-weight: 700;
+  font-size: 2.2rem;
+  padding-left: 110px;
+}
+
+.overviewdescription {
+  color: #fff;
+  font-weight: 300;
+  font-size: 2.2rem;
+  padding-left: 110px;
+  line-height: 120%;
+}
