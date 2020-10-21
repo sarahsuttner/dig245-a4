@@ -128,7 +128,7 @@ body {
 
 .tasksheader {
   color: #252963;
-  margin-top: 45px;
+  margin-top: 50px;
   font-weight: bolder;
   margin-bottom: 75px;
 }
@@ -141,6 +141,7 @@ body {
 
 .container3 {
   background-color: #5c6097;
+  margin-bottom: 100px;
 }
 
 .conclusion {
