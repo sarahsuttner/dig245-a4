@@ -6,6 +6,7 @@ body {
 .headerbackground {
   background-color: #f2f2f7;
   padding-top: 100px;
+  padding-bottom: 10px;
 }
 
 .heading {
@@ -39,6 +40,7 @@ body {
   font-weight: 700;
   font-size: 2.2rem;
   padding-left: 110px;
+  padding-top: 30px;
 }
 
 .overviewdescription {
@@ -47,4 +49,121 @@ body {
   font-size: 2.2rem;
   padding-left: 110px;
   line-height: 120%;
+  padding-bottom: 30px;
+}
+
+.boxes {
+  width: 500px;
+  position: relative;
+  left: 110px;
+}
+
+.container1 {
+  background-color: #f2f2f7;
+}
+
+.numbers {
+  color: #5c6097;
+  font-size: 7rem;
+  font-weight: bolder;
+  padding-left: 15px;
+}
+
+.boxheader {
+  color: #281b75;
+  font-size: 2rem;
+  font-weight: bolder;
+  padding-left: 45px;
+  padding-top: 35px;
+}
+
+.accuracy {
+  color: #0b0b0b;
+  font-size: 1.3rem;
+  padding-left: 45px;
+  padding-top: 15px;
+  line-height: 120%;
+}
+
+.emotionalresponse {
+  color: #0b0b0b;
+  font-size: 1.3rem;
+  padding-left: 45px;
+  line-height: 120%;
+}
+
+.timebox {
+  background-color: #7092e7;
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 1px;
+}
+
+.time {
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.timecontainer {
+  background-color: #f2f2f7;
+  margin-bottom: 35px;
+}
+
+.orangeline {
+  background-color: #ef6d57;
+  padding-bottom: 650%;
+}
+.orangeline2 {
+  background-color: #ef6d57;
+  padding-bottom: 125%;
+}
+
+.screenshot {
+  margin-top: 30px;
+}
+
+.tasksheader {
+  color: #252963;
+  margin-top: 45px;
+  font-weight: bolder;
+  margin-bottom: 75px;
+}
+
+.boxes2 {
+  width: 500px;
+  position: relative;
+  left: 5px;
+}
+
+.container3 {
+  background-color: #5c6097;
+}
+
+.conclusion {
+  color: #fff;
+  font-weight: bolder;
+  font-size: 2.2rem;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.conclusiondescription {
+  color: #fff;
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+
+.footnote {
+  color: #f2f2f7
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.footnotetext {
+  color: #f2f2f7
+  font-size: 1rem;
 }
